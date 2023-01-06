@@ -1,5 +1,5 @@
 # spotify-playlist-billboard-hot-100-time-travel-web-scrapping
-Create a playlist in Spotify using scrapping to get the Top 100 played songs from a particular date in the past.
+Create a playlist in Spotify using scraping to get the Top 100 played songs from a particular date in the past.
 
 <h1 align="center"> Spotify Playlist Billboard 100 most played songs </h1>
 
